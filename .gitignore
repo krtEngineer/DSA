@@ -1,0 +1,6 @@
+.vscode
+.editorconfig
+*.exec
+*.out
+.DS_Store
+*.txt
