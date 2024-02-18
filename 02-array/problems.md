@@ -47,7 +47,7 @@
         "id": 6,
         "name": "Set matrix zeroes",
         "link": "https://leetcode.com/problems/set-matrix-zeroes/description/",
-        "status": 0,
+        "status": 1,
         "revisionCount": 0
       },
       {
