@@ -54,7 +54,7 @@
         "id": 7,
         "name": "Next permutation",
         "link": "https://leetcode.com/problems/next-permutation/description/",
-        "status": 0,
+        "status": 1,
         "revisionCount": 0
       },
       {
